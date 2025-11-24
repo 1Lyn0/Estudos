@@ -1,0 +1,97 @@
+================================================================================
+RECUPERAÇÃO DE ESTUDOS: DEBUG, FUNÇÕES E PROCEDIMENTOS EM JAVA
+================================================================================
+
+PARTE 1: QUESTIONÁRIO TEÓRICO
+--------------------------------------------------------------------------------
+
+1. Sobre o conceito e processo de "Debug" (Depuração), assinale a alternativa correta:
+   [ ] A) Debugar significa reescrever todo o código do zero...
+   [ ] B) O processo de debug é utilizado exclusivamente quando o compilador emite erro...
+   [X] C) Uma ferramenta de depuração permite analisar o código enquanto ele é executado, possibilitando ver valores de variáveis em tempo real e pausar a execução.
+   [ ] D) "Breakpoint" é o nome dado ao erro fatal...
+   [ ] E) O debug só é útil para corrigir erros de lógica matemática...
+
+   >> Sua Resposta: C (Correta)
+
+2. No contexto de Java, qual a principal diferença técnica entre um Procedimento e uma Função?
+   [ ] A) Procedimentos usam a palavra-chave static...
+   [X] B) Procedimentos (métodos void) executam uma tarefa e não retornam valor, enquanto funções (métodos com tipo) realizam um processamento e devolvem um resultado.
+   [ ] C) Funções só podem ser chamadas dentro de blocos try-catch...
+   [ ] D) Procedimentos são mais rápidos que funções...
+   [ ] E) Não há diferença técnica...
+
+   >> Sua Resposta: B (Correta)
+
+3. Analise o trecho: public static void exibirMensagem(String texto) { ... }
+   Qual característica define este bloco inequivocamente como um "Procedimento"?
+   [ ] A) O uso do modificador public.
+   [ ] B) O fato de receber um parâmetro String.
+   [ ] C) A presença do comando System.out.println.
+   [X] D) O uso da palavra-chave void antes do nome do método.
+   [ ] E) O nome do método começar com verbo no infinitivo.
+
+   >> Sua Resposta: D (Correta)
+
+4. Sobre as vantagens de utilizar Funções e Procedimentos, qual opção NÃO é um benefício direto?
+   [ ] A) Reutilização de Código.
+   [ ] B) Facilidade de Manutenção.
+   [X] C) Aumento de Performance de Hardware: O computador processa funções mais rápido do que código sequencial no main.
+   [ ] D) Organização e Clareza.
+   [ ] E) Facilita Testes e Depuração.
+
+   >> Sua Resposta: C (Correta)
+
+5. Observe: public static double calcularAreaRetangulo(...)
+   Qual a forma correta de capturar o resultado do processamento?
+   [ ] A) calcularAreaRetangulo(10.0, 5.0);
+   [ ] B) String resultado = calcularAreaRetangulo(10.0, 5.0);
+   [X] C) double area = calcularAreaRetangulo(10.0, 5.0);
+   [ ] D) void area = calcularAreaRetangulo(10.0, 5.0);
+   [ ] E) calcularAreaRetangulo();
+
+   >> Sua Resposta: C (Correta)
+
+6. Sobre escopo: "Uma variável declarada dentro do main não é visível automaticamente dentro de outro método".
+   Essa afirmação é:
+   [X] A) Verdadeira. É necessário passar o valor como parâmetro para que o outro método tenha acesso aos dados.
+   [ ] B) Falsa. Todas as variáveis no Java são globais...
+   [ ] C) Verdadeira, mas apenas se a variável for do tipo int...
+   [ ] D) Falsa. O método pode "puxar" a variável...
+   [ ] E) Verdadeira, a menos que a variável tenha o mesmo nome...
+
+   >> Sua Resposta: A (Correta)
+
+--------------------------------------------------------------------------------
+PARTE 2: DÚVIDAS ESPECÍFICAS (Respostas Consolidadas)
+--------------------------------------------------------------------------------
+
+P: O nome da variável parametroNome poderia ser simplesmente nome?
+R: Sim. O escopo das variáveis é local. A variável 'nome' do main e o parâmetro 'nome' da função são espaços de memória diferentes.
+
+P: O que acontece se chamarmos exibirSaudacao() sem parâmetros?
+R: Erro de Compilação. O Java exige que a assinatura do método seja respeitada. Se o método pede uma String, é obrigatório enviar uma String.
+
+--------------------------------------------------------------------------------
+PARTE 3: DESAFIO PRÁTICO (CORREÇÃO DE BUG)
+--------------------------------------------------------------------------------
+Problema: O método era 'void' mas tentava-se atribuir seu valor a uma variável.
+Sua Solução (Correta): Alterar para tipo com retorno e adicionar 'return'.
+
+public class ConversorTemperatura {
+    public static void main(String[] args) {
+        double temperaturaCelsius = 30.0;
+        
+        // Agora funciona pois o método retorna um valor
+        double temperaturaFahrenheit = converterParaFahrenheit(temperaturaCelsius); 
+        
+        System.out.println("A temperatura final é: " + temperaturaFahrenheit);
+    }
+
+    // Método corrigido de 'void' para 'Double' (ou double) e com return
+    public static Double converterParaFahrenheit(double celsius) {
+        double resultado = (celsius * 1.8) + 32;
+        System.out.println("Convertendo...");
+        return resultado;
+    }
+}

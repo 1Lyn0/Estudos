@@ -1,0 +1,85 @@
+================================================================================
+REVISÃO DE FIXAÇÃO (PARA O DIA SEGUINTE)
+TEMA: DEBUG, MÉTODOS E ESCOPO EM JAVA
+================================================================================
+
+INSTRUÇÕES: Tente responder sem consultar o material. O gabarito está no final.
+
+QUESTÃO 1 (Análise de Fluxo e Return)
+Analise o seguinte método:
+
+public static int calcularSoma(int a, int b) {
+    int total = a + b;
+    return total;
+    System.out.println("Soma realizada com sucesso!");
+}
+
+Se tentarmos compilar este código, o que acontecerá?
+( ) A) O código executará normalmente e imprimirá "Soma realizada com sucesso!".
+( ) B) Ocorrerá um erro de compilação: "Unreachable code" (Código inalcançável), pois existe um comando após o return.
+( ) C) O código executará, mas o texto não aparecerá porque o return é void.
+( ) D) O Java ignorará o return e executará o print primeiro.
+
+--------------------------------------------------------------------------------
+
+QUESTÃO 2 (Compatibilidade de Tipos de Retorno)
+Você tem um método com a seguinte assinatura:
+public static double calcularMedia(double n1, double n2) { ... }
+
+No método main, qual das linhas abaixo armazena o resultado CORRETAMENTE?
+( ) A) int resultado = calcularMedia(8.0, 9.0);
+( ) B) String resultado = calcularMedia(8.0, 9.0);
+( ) C) double resultado = calcularMedia(8.0, 9.0);
+( ) D) boolean resultado = calcularMedia(8.0, 9.0);
+
+--------------------------------------------------------------------------------
+
+QUESTÃO 3 (Ordem de Parâmetros)
+Considere o método:
+public static void exibirDados(String nome, int idade) { ... }
+
+Qual das chamadas abaixo está correta?
+( ) A) exibirDados(25, "Carlos");
+( ) B) exibirDados("Ana");
+( ) C) exibirDados("Beatriz", 30);
+( ) D) String x = exibirDados("Marcos", 22);
+
+--------------------------------------------------------------------------------
+
+QUESTÃO 4 (Conceito de Escopo/Memória)
+Analise o código:
+
+public static void main(String[] args) {
+    int x = 10;
+    alterarValor(x);
+    System.out.println(x);
+}
+
+public static void alterarValor(int numero) {
+    numero = 20;
+}
+
+O que será impresso no console?
+( ) A) 10
+( ) B) 20
+( ) C) 0
+( ) D) Erro de compilação, pois a variável 'numero' não existe no main.
+
+--------------------------------------------------------------------------------
+
+QUESTÃO 5 (Prática de Debug)
+Durante um processo de debug, você parou em um breakpoint na linha 10. Você suspeita que o erro está DENTRO de um método chamado na linha 10. Qual ação você deve tomar na IDE?
+( ) A) Stop (Parar a execução).
+( ) B) Step Over (Passar por cima - executar a linha sem entrar no detalhe).
+( ) C) Step Into (Entrar no método - ir para a primeira linha dentro da função chamada).
+( ) D) Resume (Continuar até o próximo breakpoint).
+
+================================================================================
+GABARITO (Não olhe antes de responder!)
+================================================================================
+1. B (O comando 'return' encerra o método imediatamente. Nada pode existir depois dele no mesmo bloco).
+2. C (Se o método retorna double, a variável que recebe deve ser double).
+3. C (A ordem e os tipos devem corresponder exatamente à assinatura: primeiro String, depois int).
+4. A (O valor 10 foi COPIADO para o método. O método alterou a cópia. O 'x' original do main permanece intacto).
+5. C (Step Into serve justamente para investigar o funcionamento interno de uma função chamada).
+================================================================================
