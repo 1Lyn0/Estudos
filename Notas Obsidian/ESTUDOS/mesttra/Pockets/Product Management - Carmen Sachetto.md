@@ -1,0 +1,3 @@
+ConstruirProdutoCerto+ConstruirProdutoDaManeiraCerta = Product Management
+
+LinhaDesenvolvimentoScrum
