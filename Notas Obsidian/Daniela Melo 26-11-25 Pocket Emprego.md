@@ -1,0 +1,1 @@
+CurrículoFeito→AtrairRecrutadorNAOConseguirVagaImediata![[Pasted image 20251126194527.png]]

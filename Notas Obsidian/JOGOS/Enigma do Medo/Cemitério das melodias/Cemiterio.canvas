@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"418843b8e658e716","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153419.png","x":-220,"y":-320,"width":400,"height":225},
+		{"id":"2dd634dbefef8922","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153447.png","x":-220,"y":420,"width":400,"height":225},
+		{"id":"f72ab36d988489b5","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153508.png","x":280,"y":160,"width":400,"height":225},
+		{"id":"80b61d06df66e74d","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153518.png","x":280,"y":420,"width":400,"height":225},
+		{"id":"e08e6edd0d90c4ed","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105161118.png","x":820,"y":-668,"width":400,"height":225},
+		{"id":"a9e8f0576c9cd5a6","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105161131.png","x":820,"y":-423,"width":400,"height":225},
+		{"id":"970ea5d52bc6fc76","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105161156.png","x":1260,"y":-668,"width":400,"height":225},
+		{"id":"63a745f3eae4768d","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105154617.png","x":800,"y":-95,"width":400,"height":225},
+		{"id":"eb9e55af38f86223","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105154626.png","x":800,"y":169,"width":400,"height":225},
+		{"id":"5f2ffc727e6ef1de","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163412.png","x":1260,"y":-95,"width":400,"height":225},
+		{"id":"b5c809a1a49bf89f","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163435.png","x":1260,"y":169,"width":400,"height":225},
+		{"id":"da2417913341677a","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163443.png","x":1260,"y":420,"width":400,"height":225},
+		{"id":"75f711870fc098f6","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163451.png","x":1720,"y":-95,"width":400,"height":225},
+		{"id":"a7bee1af36ec52be","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163500.png","x":2160,"y":-95,"width":400,"height":225},
+		{"id":"4de026f5acc0a189","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163507.png","x":1720,"y":169,"width":400,"height":225},
+		{"id":"a771989e3c16c936","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105163514.png","x":2160,"y":169,"width":400,"height":225},
+		{"id":"5ab733727a17c6fd","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153437.png","x":-200,"y":200,"width":400,"height":225},
+		{"id":"e650ac4eb464a6f3","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153429.png","x":-200,"y":-40,"width":400,"height":225},
+		{"id":"2f14725dfad9a4c0","type":"file","file":"JOGOS/Enigma do Medo/Caverna de Cristais/imagens/Pasted image 20250106092524.png","x":360,"y":-648,"width":400,"height":225},
+		{"id":"9b3cb028e2332fb8","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250105153500.png","x":280,"y":-198,"width":400,"height":225},
+		{"id":"5fa3e53534804caf","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250107095203.png","x":1920,"y":-443,"width":400,"height":225},
+		{"id":"62914dea60608354","type":"file","file":"JOGOS/Enigma do Medo/Cemitério das melodias/Imagens/Pasted image 20250107093151.png","x":1920,"y":-720,"width":400,"height":225},
+		{"id":"a44c9237b531de44","type":"file","file":"JOGOS/Enigma do Medo/Pasted image 20250111180958.png","x":2620,"y":-95,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"fccbf5277e83d6d1","fromNode":"418843b8e658e716","fromSide":"right","toNode":"9b3cb028e2332fb8","toSide":"left"},
+		{"id":"792b28301c64eb7e","fromNode":"e650ac4eb464a6f3","fromSide":"right","toNode":"9b3cb028e2332fb8","toSide":"left"},
+		{"id":"cd381bfdd7d8d8bb","fromNode":"5ab733727a17c6fd","fromSide":"right","toNode":"f72ab36d988489b5","toSide":"left"},
+		{"id":"97936c1c7b87df65","fromNode":"2dd634dbefef8922","fromSide":"right","toNode":"80b61d06df66e74d","toSide":"left"},
+		{"id":"a9efd3b0509544e4","fromNode":"75f711870fc098f6","fromSide":"right","toNode":"a7bee1af36ec52be","toSide":"left"},
+		{"id":"7a9dc01a0c650096","fromNode":"4de026f5acc0a189","fromSide":"right","toNode":"a771989e3c16c936","toSide":"left"}
+	]
+}

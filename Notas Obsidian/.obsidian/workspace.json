@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "1ef8fb4dd775b361",
+    "type": "split",
+    "children": [
+      {
+        "id": "209d5f758c5a8bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52dd02eb8d1b14ea",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Sem título 1.base",
+                "viewName": "Tabela"
+              },
+              "icon": "lucide-table",
+              "title": "Sem título 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6109af49c3b13bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f12e6aff82184127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a13169b26fc73678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3be1bbb058f9e917",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5dfd28dfc4693110",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fa5f28482c4b10ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb529f1bf634b985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b4ec1c8d1ce16b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "09d645a76e39e8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "d1ec8d2ee196ffd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54b1ea35a7987130",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "581fba5102e74d61",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "85da7d596d844484",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false
+    }
+  },
+  "active": "a13169b26fc73678",
+  "lastOpenFiles": [
+    "Notas Obsidian",
+    "Nova pasta",
+    "Sem título.base",
+    "Sem título 1.base",
+    "ESTUDOS/mesttra/Pocket Product Management - Carmen Sachetto.md",
+    "Sem título.md",
+    "ESTUDOS/mesttra",
+    "ESTUDOS",
+    "Pasted image 20251126194527.png",
+    "Daniela Melo 26-11-25 Pocket Emprego.md",
+    "JOGOS/Minecraft/QuestCraft",
+    "JOGOS/Minecraft",
+    "JOGOS/Sem título.canvas",
+    "Pasted image 20250117190702.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250109200209.png",
+    "JOGOS",
+    "JOGOS/Enigma do Medo/Subsolo/Sem título.canvas",
+    "JOGOS/Enigma do Medo/Pasted image 20250112135948.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250112123236.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250112122102.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250111201123 1.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250111201123.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250111200131.png",
+    "JOGOS/Enigma do Medo/Pasted image 20250111195255.png",
+    "JOGOS/Enigma do Medo/Castelo Espiral/Castelo.canvas",
+    "JOGOS/Enigma do Medo/Cemitério das melodias/Cemiterio.canvas",
+    "JOGOS/Enigma do Medo/Caverna de Cristais/Documentos.canvas",
+    "JOGOS/Enigma do Medo/Castelo Espiral/Imagens",
+    "JOGOS/Enigma do Medo/Castelo Espiral",
+    "ESTUDOS/faculdade/Sem título.canvas",
+    "ESTUDOS/faculdade/Tic em Trilhas - Github/Mapa Mental.canvas",
+    "Enigma do Medo/Sem título.canvas"
+  ]
+}
