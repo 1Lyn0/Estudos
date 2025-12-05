@@ -3,13 +3,15 @@ package principal;
 import java.util.Scanner;
 import java.lang.Math;
 import utilitarios.Calculadora;
+import java.util.InputMismatchException;
 
 public class App {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         String mensagem = "";
         int opcao = 0;
-
+        String continuar = "";
+        do {
         exibirMenu();
 
         try {
@@ -53,14 +55,24 @@ public class App {
                     teclado.close();
                     return;
             }
+        } catch (InputMismatchException a) {
+            System.out.println("Digite apenas os números das opções listadas");
+        } catch (IllegalStateException b) {
+            // Executar diversas métodos ao mesmo tempo, pode ocasionar esse erro. Tem que esperar ele terminar um para realizar outro método
+            System.out.println("Espere o programa terminar de pensar");
         } catch (Exception e) {
             System.out.println("Erro: Entrada inválida");
             teclado.close();
             return;
         }
+        // catch (NoSuchElementException b) - Não entendi o que esse exception faz e nem como ativa-lo
         System.out.println(mensagem);
+
+        System.out.println("Planeja fazer mais uma conta? s ou n");
+        teclado.nextLine();
+        continuar = teclado.nextLine();
+        } while (continuar.equalsIgnoreCase("s"));
         teclado.close();
-        
     }
     static void exibirMenu(){
         System.out.println("== Sistema Geométrico ==");
