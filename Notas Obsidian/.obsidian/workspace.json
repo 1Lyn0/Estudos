@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESTUDOS/mesttra/Links Compartilhados.md",
+                "file": "ESTUDOS/mesttra/Java/Matriz, Array, Vetor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links Compartilhados"
+              "title": "Matriz, Array, Vetor"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa5f28482c4b10ff",
@@ -185,8 +186,10 @@
   },
   "active": "52dd02eb8d1b14ea",
   "lastOpenFiles": [
-    "ESTUDOS/mesttra/Pockets/Product Management - Carmen Sachetto.md",
     "ESTUDOS/mesttra/Links Compartilhados.md",
+    "ESTUDOS/mesttra/Java/Matriz, Array, Vetor.md",
+    "ESTUDOS/mesttra/Java",
+    "ESTUDOS/mesttra/Pockets/Product Management - Carmen Sachetto.md",
     "Sem título 2.base",
     "Sem título 1.base",
     "Sem título.base",
@@ -203,7 +206,6 @@
     "JOGOS/Sem título.canvas",
     "Pasted image 20250117190702.png",
     "JOGOS/Enigma do Medo/Pasted image 20250109200209.png",
-    "JOGOS",
     "JOGOS/Enigma do Medo/Subsolo/Sem título.canvas",
     "JOGOS/Enigma do Medo/Pasted image 20250112135948.png",
     "JOGOS/Enigma do Medo/Pasted image 20250112123236.png",
