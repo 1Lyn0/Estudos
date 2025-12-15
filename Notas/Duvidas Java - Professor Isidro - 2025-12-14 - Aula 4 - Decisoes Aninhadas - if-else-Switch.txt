@@ -1,0 +1,11 @@
+Dúvidas Java - Professor Isidro - 14/12/25 | Aula 4 - Decisões Aninhadas: if/else/Switch
+- Qual a diferença positiva e negativa de usar o if/else um dentro do outro e usar if/else_if/else todos no mesmo nível hierárquivo
+	Resposta Completa Copilot: https://github.com/copilot/share/c2524300-4300-8453-9111-244ce068205c
+	Aninhado: O código só segue os "if" se o primeiro "if" for true
+	Mesmo nível: Vai executando os "if" conforme o anterior for falso
+	
+Ideia de Exercício if / else if / else:
+1.Treine lendo e reescrevendo:
+	Pegue um código com muito if aninhado.
+	Tente reescrever com if / else if / else quando fizer sentido.
+	E o inverso: veja quando else if esconde hierarquias e refatore para aninhado ou para funções menores.
