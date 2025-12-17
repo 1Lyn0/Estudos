@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DebugDiário.md",
+                "file": "NomearCommits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DebugDiário"
+              "title": "NomearCommits"
             }
           }
         ]
@@ -186,7 +186,8 @@
   },
   "active": "65f7f96a6bc20b7c",
   "lastOpenFiles": [
-    "DebugDiário.md",
+    "Java/DebugDiário.md",
+    "NomearCommits.md",
     "Pockets/Emprego - Daniela Melo/Pasted image 20251126194527.png",
     "Pockets/Emprego - Daniela Melo/Daniela Melo 26-11-25 Pocket Emprego.md",
     "Pockets/Emprego - Daniela Melo",
