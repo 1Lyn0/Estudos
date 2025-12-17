@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52dd02eb8d1b14ea",
+            "id": "65f7f96a6bc20b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/mesttra/Links Compartilhados.md",
+                "file": "DebugDiário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links Compartilhados"
+              "title": "DebugDiário"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fa5f28482c4b10ff",
@@ -183,8 +184,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52dd02eb8d1b14ea",
+  "active": "65f7f96a6bc20b7c",
   "lastOpenFiles": [
+    "DebugDiário.md",
+    "Pockets/Emprego - Daniela Melo/Pasted image 20251126194527.png",
+    "Pockets/Emprego - Daniela Melo/Daniela Melo 26-11-25 Pocket Emprego.md",
+    "Pockets/Emprego - Daniela Melo",
+    "Pockets/Product Management - Carmen Sachetto.md",
+    "Java/Duvidas Java - Professor Isidro - 2025-12-14 - Aula 4 - Decisoes Aninhadas - if-else-Switch.txt",
+    "Product Management - Carmen Sachetto.md",
+    "Emprego - Daniela Melo/Pasted image 20251126194527.png",
+    "Emprego - Daniela Melo/Daniela Melo 26-11-25 Pocket Emprego.md",
+    "Emprego - Daniela Melo",
+    "Links Compartilhados.md",
+    "Pockets/curriculo/Pasted image 20251126194527.png",
+    "Pockets/curriculo/Daniela Melo 26-11-25 Pocket Emprego.md",
+    "Pockets/curriculo",
+    "Pockets",
+    "Java/Matriz, Array, Vetor.md",
+    "Java/DataHora.md",
+    "Java",
     "Estudos/mesttra/Java/DataHora.md",
     "ESTUDOS/mesttra/Links Compartilhados.md",
     "ESTUDOS/mesttra/Java/Matriz, Array, Vetor.md",
@@ -193,16 +212,9 @@
     "Sem título 2.base",
     "Sem título 1.base",
     "Sem título.base",
-    "Notas Obsidian",
-    "Nova pasta",
     "ESTUDOS/mesttra/Pocket Product Management - Carmen Sachetto.md",
-    "Sem título.md",
-    "ESTUDOS/mesttra",
-    "ESTUDOS",
     "Pasted image 20251126194527.png",
     "Daniela Melo 26-11-25 Pocket Emprego.md",
-    "JOGOS/Minecraft/QuestCraft",
-    "JOGOS/Minecraft",
     "JOGOS/Sem título.canvas",
     "Pasted image 20250117190702.png",
     "JOGOS/Enigma do Medo/Pasted image 20250109200209.png",
@@ -211,9 +223,6 @@
     "JOGOS/Enigma do Medo/Pasted image 20250112123236.png",
     "JOGOS/Enigma do Medo/Pasted image 20250112122102.png",
     "JOGOS/Enigma do Medo/Pasted image 20250111201123 1.png",
-    "JOGOS/Enigma do Medo/Pasted image 20250111201123.png",
-    "JOGOS/Enigma do Medo/Pasted image 20250111200131.png",
-    "JOGOS/Enigma do Medo/Pasted image 20250111195255.png",
     "JOGOS/Enigma do Medo/Castelo Espiral/Castelo.canvas",
     "JOGOS/Enigma do Medo/Cemitério das melodias/Cemiterio.canvas",
     "JOGOS/Enigma do Medo/Caverna de Cristais/Documentos.canvas",
