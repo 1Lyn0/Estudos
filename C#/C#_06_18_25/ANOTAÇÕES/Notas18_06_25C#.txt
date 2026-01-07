@@ -1,0 +1,25 @@
+Linguagem XML - <comando>texto</comando>
+	Abrir e fechar uma tag com <></>
+	
+TargetFramework - Versao do .net que estamos usando
+
+Comandos no terminal
+	dotnet new console - Cria os arquivos base
+	dotnet build - compilar e jogar os arquivos na pasta bin
+	dotnet run - rodar o codigo
+
+tags	
+	prop - propriedade / caracteristica
+	public void Apresentar() - metodo / a‡ao
+	Console.WriteLine(); - escrever uma linha
+		Console = classe /  WriteLine = m‚todo/fun‡ao
+	($"texto" +
+	$"texto"); - Dividir o codigo em linhas
+	//texto - coment rio
+	"texto /n texto" - pular linha pro usuario
+Abstra‡ao: Pegar algo do mundo real e tranforma-la em c¢digo
+Conven‡ao de nome de classe: Come‡a sempre com maiusculo, a cada nova palavra
+
+Quando o programa for executado, ele vai sempre come‡ar no Program.cs
+O espa‡o s¢ existe dentro de " texto ", no codigo ela nao importa
+*Mantenha seu codigo seguindo as conven‡oes, geralmente quem vai fazer a manuten‡ao do c¢digo ‚ outra pessoa

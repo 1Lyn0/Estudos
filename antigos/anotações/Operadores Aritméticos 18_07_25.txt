@@ -1,2 +1,0 @@
-Incrementar / Descrementar
-	x++				X--
