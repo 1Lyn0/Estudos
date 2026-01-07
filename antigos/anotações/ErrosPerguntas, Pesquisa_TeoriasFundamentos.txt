@@ -1,0 +1,73 @@
+##########################################
+### QUESTÕES INCORRETAS - BLOCO DE NOTAS ###
+##########################################
+
+---
+Pergunta 11/20
+
+Qual das seguintes características de "Ocorrência" é compartilhada tanto pelo conhecimento filosófico quanto pelo conhecimento religioso, segundo a tabela de comparação?
+
+A) Assistêmico
+B) Sistemático
+C) Observação e experimentação sistemática
+D) Não se aplica
+
+Sua resposta: D
+Status: Incorreto
+
+Resposta Correta: B) Sistemático
+
+Explicação:
+De acordo com o "Quadro – Comparação entre as diversas formas de conhecimento", tanto o conhecimento filosófico quanto o conhecimento religioso compartilham a característica de "Ocorrência" como **Sistemático**.
+
+Verificação das características de "Ocorrência" na tabela:
+*   Conhecimento mítico: Assistêmico
+*   Conhecimento artístico: Assistêmico
+*   Conhecimento religioso: **Sistemático**
+*   Conhecimento filosófico: **Sistemático**
+*   Conhecimento científico: Observação e experimentação sistemática
+
+---
+Pergunta 17/20
+
+Conforme o material, qual é uma das características que distinguem a "intuição" como um tipo de raciocínio, segundo Cervo, Bervian e Silva (2007)?
+
+A) É um processo que resulta em conclusões universais e infalíveis.
+B) É uma forma de raciocínio que depende de premissas observadas no fenômeno.
+C) É um modo de pensar que considera uma analogia cuja conclusão está para as premissas como o todo está para as partes.
+D) É utilizada para a produção do conhecimento científico de forma exclusiva.
+
+Sua resposta: D
+Status: Incorreto
+
+Resposta Correta: B) É uma forma de raciocínio que depende de premissas observadas no fenômeno.
+
+Explicação:
+De acordo com o material, a intuição é definida como "um tipo de raciocínio relacionado com uma **percepção, um insight**, que acontece a partir de uma certa **disposição de elementos que o despertam**". Embora não use a palavra "premissas", a ideia de "percepção" e "disposição de elementos" está alinhada com a dependência de algo que é "observado" ou experienciado no contexto do fenômeno para que o *insight* ocorra.
+
+A alternativa **C** descreve a **indução**, não a intuição. A alternativa **D** está incorreta porque o material afirma que a intuição "**também** acaba por ser utilizada para a produção do conhecimento científico", indicando que não é de forma exclusiva.
+
+---
+Pergunta 18/20
+
+Qual dos tipos de raciocínio listados na seção "Quatro tipos básicos de raciocínio" do material é descrito como um modo de argumentar que "torna explícitas particulares contidas em verdades universais"?
+
+A) Indução
+B) Dedução
+C) Intuição
+D) Inferência
+
+Sua resposta: D
+Status: Incorreto
+
+Resposta Correta: B) Dedução
+
+Explicação:
+De acordo com a seção "Quatro tipos básicos de raciocínio" do material, a **Dedução** é descrita como "a relação lógica que se estabelece entre proposições, um modo de argumentar que **torna explícitas particulares contidas em verdades universais**".
+
+As outras definições são:
+*   **Indução**: um modo de pensar que considera uma analogia cuja conclusão está para as premissas como o todo está para as partes.
+*   **Intuição**: um tipo de raciocínio relacionado com uma percepção, um *insight*, que acontece a partir de uma certa disposição de elementos que o despertam.
+*   **Inferência**: um tipo de raciocínio que permite encontrar um valor comum a partir de uma ou mais proposições em que está contida de modo implícito.
+
+##########################################
