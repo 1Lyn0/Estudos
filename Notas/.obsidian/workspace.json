@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NomearCommits.md",
+                "file": "Professor Piccini - COMEÇANDO A ESTUDAR DO ZERO EM 2026 Suas Dúvidas de Iniciante Respondidas - Consultório EVV 07_01_26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NomearCommits"
+              "title": "Professor Piccini - COMEÇANDO A ESTUDAR DO ZERO EM 2026 Suas Dúvidas de Iniciante Respondidas - Consultório EVV 07_01_26"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fa5f28482c4b10ff",
@@ -173,21 +172,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "65f7f96a6bc20b7c",
   "lastOpenFiles": [
-    "Java/DebugDiário.md",
     "NomearCommits.md",
+    "Professor Piccini - COMEÇANDO A ESTUDAR DO ZERO EM 2026 Suas Dúvidas de Iniciante Respondidas - Consultório EVV 07_01_26.md",
+    "Java/DebugDiário.md",
     "Pockets/Emprego - Daniela Melo/Pasted image 20251126194527.png",
     "Pockets/Emprego - Daniela Melo/Daniela Melo 26-11-25 Pocket Emprego.md",
     "Pockets/Emprego - Daniela Melo",
