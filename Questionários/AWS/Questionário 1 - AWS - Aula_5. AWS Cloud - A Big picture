@@ -1,0 +1,144 @@
+AWS Cloud Practitioner - Lecture Quiz
+
+1. According to the lecture, cloud computing is exactly similar to the way you consume which utility?
+A) Water
+B) Internet
+C) Electricity
+D) Gas
+
+2. In cloud computing, who owns and manages the computing resources (like servers)?
+A) The end user
+B) The internet service provider
+C) The government
+D) The cloud service provider
+
+3. Which statement best describes the relationship between an AWS Region and an Availability Zone (AZ)?
+A) A Region is located inside an Availability Zone.
+B) A Region contains multiple Availability Zones.
+C) A Region and an Availability Zone are the same thing.
+D) Availability Zones are larger geographic areas than Regions.
+
+4. According to the lecture, how many AWS Regions exist today?
+A) 12
+B) 24
+C) 34
+D) 50
+
+5. Why are Availability Zones (AZs) typically located up to 100km from each other?
+A) To ensure they are in different countries.
+B) To prevent outages (like floods) from affecting multiple AZs while maintaining low latency.
+C) To allow for different pricing models in each AZ.
+D) To ensure they use different power grids and internet providers only.
+
+6. If the distance between Availability Zones was thousands of kilometers, what technical issue would occur?
+A) Data could not be replicated in real-time due to latency.
+B) Power consumption would increase drastically.
+C) Security would be compromised.
+D) It would cost too much to connect them.
+
+7. Which of the following is an example of a service that operates specifically at the Availability Zone (AZ) level?
+A) DynamoDB
+B) S3
+C) EC2
+D) IAM
+
+8. Which of the following AWS services works across regions or is attached to the account level (Global)?
+A) EC2
+B) S3
+C) IAM (Identity and Access Management)
+D) DynamoDB
+
+9. What type of scaling involves adding more hardware capacity (like CPU and memory) to an existing server?
+A) Horizontal Scaling
+B) Diagonal Scaling
+C) Vertical Scaling
+D) Auto Scaling
+
+10. What is the primary function of a Load Balancer in the architecture described?
+A) To store user session data.
+B) To distribute incoming traffic across multiple web servers.
+C) To translate domain names to IP addresses.
+D) To cache frequently accessed data.
+
+11. Which service is responsible for translating a domain name (like myapp.com) to an IP address?
+A) Load Balancer
+B) DNS Service
+C) CDN
+D) NoSQL Database
+
+12. Why are relational databases considered difficult to scale horizontally?
+A) Because they do not support SQL.
+B) Because they have state (data) which is hard to distribute.
+C) Because they are too expensive.
+D) Because they only run on one operating system.
+
+13. What strategy is mentioned to reduce the load on a relational database?
+A) Introduce a database cache.
+B) Use a larger hard drive.
+C) Increase the internet bandwidth.
+D) Remove the load balancer.
+
+14. Which type of database is best suited for storing semi-structured data, such as user profiles and posts in a social media app?
+A) Relational Database
+B) Graph Database
+C) NoSQL Database
+D) Cache Database
+
+15. What type of database is recommended for managing complex connections between users (e.g., friends of friends)?
+A) Relational Database
+B) NoSQL Database
+C) Graph Database
+D) In-memory Database
+
+16. Where should media files (videos, images) generally be stored in a scalable cloud architecture?
+A) Directly on the application server's disk.
+B) In the Relational Database.
+C) In External Storage.
+D) In the Load Balancer.
+
+17. What is a key benefit of using External Storage for media files?
+A) It encrypts the data automatically.
+B) It can be accessed directly from the internet, bypassing web servers.
+C) It is faster than memory cache.
+D) It automatically converts video formats.
+
+18. What solution is used to solve the latency problem for users accessing media from far away locations (e.g., Asia users accessing US servers)?
+A) Vertical Scaling
+B) CDN (Content Delivery Network)
+C) Larger Database
+D) Better Codec Programs
+
+19. How does a CDN (Content Delivery Network) improve user experience?
+A) By caching content in locations geographically closer to the user.
+B) By increasing the size of the original server.
+C) By compressing the video files to a smaller size.
+D) By restricting access to users in certain regions.
+
+20. What technology is used to capture and analyze user activity (like clicks) in real-time?
+A) Relational Database Management System
+B) Clickstream Analytics
+C) Content Delivery Network
+D) Domain Name Service
+
+
+*** ANSWER KEY ***
+1. C
+2. D
+3. B
+4. C
+5. B
+6. A
+7. C
+8. C
+9. C
+10. B
+11. B
+12. B
+13. A
+14. C
+15. C
+16. C
+17. B
+18. B
+19. A
+20. B
